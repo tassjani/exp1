@@ -1,3 +1,4 @@
 # exp1
 experiment 1
-oke kita buat satu ya
+Hello tacos!!! i'll be back at coding (learning API, Node.js,etc!)
+hop on! let's drive to hell.
